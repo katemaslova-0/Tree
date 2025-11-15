@@ -1,0 +1,1 @@
+( "Cat" ( "Poltorashka" nil nil )( "Krodetsa" ( "MOUSE" nil nil )( "Fruit" ( "Apple" nil nil )( "Nothing" nil nil ))))

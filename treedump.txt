@@ -1,0 +1,8 @@
+digraph G{
+rankdir=HR;
+f0x503000000040 [shape=Mrecord; style = filled; fillcolor = "#ffc0f6ff"; color = "#008000"; label = "{address = 0x503000000040 | animal | {left = 0x503000000070 | right = 0x5030000000a0}} "]; 
+f0x503000000070 [shape=Mrecord; style = filled; fillcolor = "#ffc0f6ff"; color = "#008000"; label = "{address = 0x503000000070 | Полторашка | {left = (nil) | right = (nil)}} "]; 
+f0x503000000040 -> f0x503000000070 [color = "#fa5d82ff"];
+f0x5030000000a0 [shape=Mrecord; style = filled; fillcolor = "#ffc0f6ff"; color = "#008000"; label = "{address = 0x5030000000a0 | (null) | {left = (nil) | right = (nil)}} "]; 
+f0x503000000040 -> f0x5030000000a0 [color = "#fa5d82ff"];
+}
